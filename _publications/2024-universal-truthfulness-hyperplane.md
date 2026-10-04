@@ -6,7 +6,7 @@ permalink: /publication/2024-universal-truthfulness-hyperplane
 excerpt: 'First author. Published at EMNLP 2024.'
 date: 2024-01-01
 venue: 'EMNLP 2024'
-citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). "On the Universal Truthfulness Hyperplane Inside LLMs." \u003ci\u003eEMNLP 2024\u003c/i\u003e.'
+citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). "On the Universal Truthfulness Hyperplane Inside LLMs." <i>EMNLP 2024</i>.'
 ---
 
 Junteng Liu is the first author of this EMNLP 2024 publication.
