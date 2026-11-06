@@ -22,7 +22,7 @@ repository               : "spadardtubmanhc385122/LJT-Homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # filename of avatar image placed in /images/
+  avatar           : "profile.png" # default template placeholder (no personal photo provided)
   name             : "Junteng Liu"
   pronouns         : # example: "she/her"
   bio              : "First-year PhD candidate at HKUST NLP Group"
